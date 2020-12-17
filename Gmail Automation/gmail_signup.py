@@ -20,8 +20,8 @@ import copy
 
 firstname = "Alphonse"
 lastname = "Brown"
-username = "alphonse.brown.ab.12@gmail.com"
-password = "@lphoneab12"
+username = "exemple@name.fr"
+password = "azertyuiop"
 
 options = Options()
 

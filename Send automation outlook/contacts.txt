@@ -1,3 +1,2 @@
-alexandre alexzt@hotmail.fr
-yael yrokiox@hotmail.fr
-lili lilimaudeline.neuder@gmail.com
+name example_1@name.com
+another_name example_2@name.com

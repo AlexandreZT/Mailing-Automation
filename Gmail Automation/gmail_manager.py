@@ -21,9 +21,9 @@ import copy
 
 class GmailManager():
 
-  username = "a.zitounitinlot@gmail.com"
+  username = "exemple@name.fr"
 
-  password = "YB72629aaa"
+  password = "azertyuiop"
 
   options = Options()
 

@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 
-MY_ADDRESS = 'alexzt@hotmail.fr'
+MY_ADDRESS = 'example@name.com'
 print("Votre adresse mail : ", MY_ADDRESS)
 PASSWORD = getpass.getpass('Mot de passe : ')
 SUBJECT = input("Veuillez entrer l'objet du mail : ")

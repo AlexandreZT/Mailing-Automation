@@ -17,11 +17,11 @@ class OutlookManager():
     
     loop = True
     # LOGIN
-    username = "yrokiox@hotmail.fr"
+    username = "exemple@name.fr"
     # username = input("veuillez saisir votre adresse mail : ")
     password = input(f"""veuillez saisir le mot de passe du compte {username} : """)
     # EMAILING
-    sendto = "alexzt@hotmail.fr"
+    sendto = "exemple@name.fr"
     obj_text = "Selenium" 
     obj_used = False
     message = "Salut je t'envoie un message automatisé"
